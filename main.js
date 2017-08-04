@@ -18,6 +18,10 @@ myButton.onclick = function() {
   setUserName();
 }
 
-body {
+h1 {
+    text-align: left;
+}
+
+h2 {
     text-align: left;
 }
