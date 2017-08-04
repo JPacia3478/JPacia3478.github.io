@@ -17,11 +17,3 @@ if(!localStorage.getItem('name')) {
 myButton.onclick = function() {
   setUserName();
 }
-
-h1 {
-    text-align: left;
-}
-
-h2 {
-    text-align: left;
-}

@@ -24,22 +24,22 @@ div::after
 }
 h1
 {
-    text-align: center;
+    text-align: left;
     font-size: 2em;
 }
 h2
 {
-    text-align: center;
+    text-align: left;
     font-size: 2em;
 }
 h3
 {
-    text-align: center;
+    text-align: left;
     font-size: 2em;
 }
 p
 {
-    text-align: center;
+    text-align: left;
     font-size: 1.5em;
 }
 img.pic
@@ -50,6 +50,6 @@ img.pic
 }
 li
 {
-    text-align: center;
+    text-align: left;
     font-size: 2em;
 }
