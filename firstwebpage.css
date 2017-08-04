@@ -1,6 +1,10 @@
 body
 {
 }
+html
+{
+    font: Helvetica, sans-serif;
+}
 div
 {
     top: 0;
